@@ -4,8 +4,6 @@ Submitted by: Junzhe (Joe) Zhou
 
 Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 6 hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
